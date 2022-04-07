@@ -67,4 +67,4 @@ Our new SQL Queries returned the following results into four separate tables:
 ---
 Data Source: retirement_titles.csv, unique_titles.csv, retiring_titles.csv, mentorship_eligibility.csv
 
-Software: PostgreSQl 11.15, PgAdmin 6.7
+Software: PostgreSQL 11.15, PgAdmin 6.7
